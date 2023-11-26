@@ -5,9 +5,9 @@
 -->
 
 - 🔭 I’m currently working with ReactJs/React Native
-- 🌱 I’m currently learning DevOps
-- 💬 Ask me about JS/ReactJs
+- 🌱 I’m currently learning about APPs Security
+- 💬 Ask me about JS / TS / ReactJs / React Native
 
 
-<img src ="https://github-readme-stats.vercel.app/api?username=mohcinenazrhan&bg_color=0021ba&title_color=fff&text_color=fff"/>
+<img src ="https://github-readme-stats.vercel.app/api?username=mohcinenazrhan&bg_color=14452F&title_color=fff&text_color=fff"/>
 
