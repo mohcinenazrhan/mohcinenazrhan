@@ -9,5 +9,5 @@
 - 💬 Ask me about JS / TS / ReactJs / React Native
 
 
-<img src ="https://github-readme-stats.vercel.app/api?username=mohcinenazrhan&bg_color=14452F&title_color=fff&text_color=fff"/>
+<img src ="https://github-readme-stats.vercel.app/api?username=mohcinenazrhan&bg_color=0F5132&title_color=fff&text_color=fff"/>
 
