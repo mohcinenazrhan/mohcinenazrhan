@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working with ReactJs/React Native
-- 🌱 I’m currently learning about APPs Security
+- 🌱 I’m currently learning about GCP
 - 💬 Ask me about JS / TS / ReactJs / React Native
 
 
